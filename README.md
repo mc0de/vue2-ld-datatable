@@ -4,10 +4,10 @@
 [![npm download][npm-dl-img]][npm-url]
 [![build][build-img]][build-url]
 
-> The best Datatable for Vue.js 2.x which never sucks  
-> `npm i -S vue2-datatable-component`
+> Successor of deprecated OneWayTech/vue2-datatable Datatable for Vue.js 2.x
+> `npm i -S vue2-ld-datatable`
 
-[Documentation](https://OneWayTech.github.io/vue2-datatable/doc) | 
+[Documentation](https://OneWayTech.github.io/vue2-datatable/doc) |
 [Online examples](https://OneWayTech.github.io/vue2-datatable/examples/dist)
 
 [npm-url]: https://www.npmjs.com/package/vue2-datatable-component
